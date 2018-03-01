@@ -1,0 +1,2 @@
+export * from './build/ng2-status-bubble.module';
+export * from './build/status-bubble.component';
