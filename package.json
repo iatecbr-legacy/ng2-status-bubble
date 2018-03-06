@@ -1,6 +1,6 @@
 {
   "name": "@iatec/ng2-status-bubble",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "license": "MIT",
   "scripts": {
     "prepublish": "gulp js:build && ngc --p tsconfig-aot.json"
